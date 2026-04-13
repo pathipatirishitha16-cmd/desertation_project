@@ -1,0 +1,8 @@
+Group,Value,N,Mean_AUROC
+age_group,>60,201,0.5386
+age_group,40-60,465,0.488
+age_group,<40,177,0.5027
+Patient Sex,M,399,0.4915
+Patient Sex,F,444,0.5331
+co_bucket,1,706,0.5475
+co_bucket,2,89,0.5053

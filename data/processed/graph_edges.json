@@ -1,0 +1,114 @@
+[
+  {
+    "source": "Atelectasis",
+    "target": "Effusion",
+    "weight": 0.1923,
+    "count": 60,
+    "phi": 0.1001
+  },
+  {
+    "source": "Effusion",
+    "target": "Atelectasis",
+    "weight": 0.1786,
+    "count": 60,
+    "phi": 0.1001
+  },
+  {
+    "source": "Atelectasis",
+    "target": "Infiltration",
+    "weight": 0.2821,
+    "count": 88,
+    "phi": 0.0931
+  },
+  {
+    "source": "Infiltration",
+    "target": "Atelectasis",
+    "weight": 0.1502,
+    "count": 88,
+    "phi": 0.0931
+  },
+  {
+    "source": "Edema",
+    "target": "Cardiomegaly",
+    "weight": 0.1406,
+    "count": 9,
+    "phi": 0.0849
+  },
+  {
+    "source": "Cardiomegaly",
+    "target": "Effusion",
+    "weight": 0.2818,
+    "count": 31,
+    "phi": 0.1124
+  },
+  {
+    "source": "Consolidation",
+    "target": "Effusion",
+    "weight": 0.2053,
+    "count": 31,
+    "phi": 0.0773
+  },
+  {
+    "source": "Mass",
+    "target": "Consolidation",
+    "weight": 0.1308,
+    "count": 14,
+    "phi": 0.0758
+  },
+  {
+    "source": "Edema",
+    "target": "Effusion",
+    "weight": 0.4375,
+    "count": 28,
+    "phi": 0.1574
+  },
+  {
+    "source": "Edema",
+    "target": "Infiltration",
+    "weight": 0.4375,
+    "count": 28,
+    "phi": 0.0975
+  },
+  {
+    "source": "Edema",
+    "target": "Pneumonia",
+    "weight": 0.2031,
+    "count": 13,
+    "phi": 0.222
+  },
+  {
+    "source": "Pneumonia",
+    "target": "Edema",
+    "weight": 0.2708,
+    "count": 13,
+    "phi": 0.222
+  },
+  {
+    "source": "Effusion",
+    "target": "Infiltration",
+    "weight": 0.2946,
+    "count": 99,
+    "phi": 0.108
+  },
+  {
+    "source": "Infiltration",
+    "target": "Effusion",
+    "weight": 0.1689,
+    "count": 99,
+    "phi": 0.108
+  },
+  {
+    "source": "Fibrosis",
+    "target": "Nodule",
+    "weight": 0.136,
+    "count": 17,
+    "phi": 0.0808
+  },
+  {
+    "source": "Nodule",
+    "target": "Fibrosis",
+    "weight": 0.1043,
+    "count": 17,
+    "phi": 0.0808
+  }
+]

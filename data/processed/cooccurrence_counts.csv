@@ -1,0 +1,16 @@
+,Atelectasis,Cardiomegaly,Consolidation,Edema,Effusion,Emphysema,Fibrosis,Hernia,Infiltration,Mass,Nodule,Pleural_Thickening,Pneumonia,Pneumothorax,No Finding
+Atelectasis,312,10,23,9,60,13,7,0,88,13,9,0,8,20,0
+Cardiomegaly,10,110,7,9,31,3,3,2,17,1,2,0,1,1,0
+Consolidation,23,7,151,5,31,0,5,0,41,14,17,0,1,8,0
+Edema,9,9,5,64,28,0,0,0,28,0,4,0,13,1,0
+Effusion,60,31,31,28,336,5,15,1,99,15,21,0,13,16,0
+Emphysema,13,3,0,0,5,72,2,0,11,2,2,0,1,5,0
+Fibrosis,7,3,5,0,15,2,125,1,23,4,17,0,4,0,0
+Hernia,0,2,0,0,1,0,1,23,4,1,0,0,0,0,0
+Infiltration,88,17,41,28,99,11,23,4,586,25,42,0,19,16,0
+Mass,13,1,14,0,15,2,4,1,25,107,8,0,0,6,0
+Nodule,9,2,17,4,21,2,17,0,42,8,163,0,6,1,0
+Pleural_Thickening,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pneumonia,8,1,1,13,13,1,4,0,19,0,6,0,48,1,0
+Pneumothorax,20,1,8,1,16,5,0,0,16,6,1,0,1,121,0
+No Finding,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1880

@@ -1,0 +1,53 @@
+{
+  "num_nodes": 15,
+  "num_edges": 16,
+  "density": 0.0762,
+  "avg_in_degree": 1.07,
+  "avg_out_degree": 1.07,
+  "is_weakly_connected": false,
+  "num_weakly_connected_components": 7,
+  "top_in_degree": [
+    [
+      "Effusion",
+      5
+    ],
+    [
+      "Infiltration",
+      3
+    ],
+    [
+      "Atelectasis",
+      2
+    ],
+    [
+      "Cardiomegaly",
+      1
+    ],
+    [
+      "Consolidation",
+      1
+    ]
+  ],
+  "top_out_degree": [
+    [
+      "Edema",
+      4
+    ],
+    [
+      "Atelectasis",
+      2
+    ],
+    [
+      "Effusion",
+      2
+    ],
+    [
+      "Infiltration",
+      2
+    ],
+    [
+      "Cardiomegaly",
+      1
+    ]
+  ]
+}
